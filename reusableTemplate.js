@@ -216,7 +216,7 @@ var library = (function(){
 					hasBeenCalled = true;
 					func();
 				}
-			}
+			} 
 		},
 
 		memoize : function(func) {},
